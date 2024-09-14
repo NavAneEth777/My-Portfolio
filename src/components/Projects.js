@@ -14,11 +14,14 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/Crop-Recommandation-System">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/Crop-Recommandation-System">
                                             Github
                                         </a></p>
-                            </ul>
+                                <p><a target="_blank" rel="noreferrer noopener" href="https://crop-recommandation-system.onrender.com/">
+                                            Demo Link
+                                        </a></p>
+                        </ul>
                     </div>
 
                     
@@ -30,9 +33,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/Netflix-Stock-Prediction">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/Netflix-Stock-Prediction">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="https://netflix-stock-prediction.onrender.com/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -50,9 +56,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -66,9 +75,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -78,13 +90,16 @@ function Projects() {
                     <div class="box">
                         <h4 class="title is-4"><a target="_blank" rel="noreferrer noopener" href="/">Spelling &amp; Grammer Checker Using Streamlit</a></h4>
                         
-                            <p>The **Spelling &amp; Grammar Checker** using **Streamlit** allows users to input text and get real-time suggestions for spelling and grammar corrections. It integrates language processing models like **TextBlob** or **GingerIt** to analyze the text. Streamlit provides a simple, interactive interface for users to input, check, and receive feedback on their writing, making it an accessible web-based tool.</p>
+                            <p>The Spelling &amp; Grammar Checker using Streamlit** allows users to input text and get real-time suggestions for spelling and grammar corrections. It integrates language processing models like TextBlob or GingerIt to analyze the text. Streamlit provides a simple, interactive interface for users to input, check, and receive feedback on their writing, making it an accessible web-based tool.</p>
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -94,13 +109,16 @@ function Projects() {
                     <div class="box">
                         <h4 class="title is-4"><a target="_blank" rel="noreferrer noopener" href="/">Document Summaraiser Using Streamlit</a></h4>
                         
-                            <p>The **Document Summarizer** using **Streamlit** enables users to upload text documents and receive concise summaries. By leveraging NLP models like **spaCy** or **Transformers**, the tool extracts key information and condenses content. Streamlit offers an interactive interface, allowing for easy document uploads and quick, user-friendly summaries.</p>
+                            <p>The Document Summarizer using Streamlit enables users to upload text documents and receive concise summaries. By leveraging NLP models like spaCy or Transformers, the tool extracts key information and condenses content. Streamlit offers an interactive interface, allowing for easy document uploads and quick, user-friendly summaries.</p>
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -110,13 +128,16 @@ function Projects() {
                     <div class="box">
                         <h4 class="title is-4"><a target="_blank" rel="noreferrer noopener" href="/">Youtube Video Summarizer Using Streamlit</a></h4>
                         
-                            <p>The **YouTube Video Summarizer** using **Streamlit** extracts and summarizes key points from YouTube videos. By leveraging the YouTube API to fetch transcripts and NLP models like **BERT** or **Transformers**, the tool provides concise text summaries. Streamlit offers a user-friendly interface for inputting video URLs and viewing summaries instantly.</p>
+                            <p>The YouTube Video Summarizer using Streamlit extracts and summarizes key points from YouTube videos. By leveraging the YouTube API to fetch transcripts and NLP models like BERT or Transformers, the tool provides concise text summaries. Streamlit offers a user-friendly interface for inputting video URLs and viewing summaries instantly.</p>
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -130,9 +151,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -150,9 +174,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -166,9 +193,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -182,9 +212,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div>
@@ -198,9 +231,12 @@ function Projects() {
                             <br/>
                         
                         <br/>
-                        <ul>
-                                <p><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/Code-Pen">
+                        <ul style={{display: 'flex'}}>
+                                <p style={{marginRight: 25 + 'px'}}><a target="_blank" rel="noreferrer noopener" href="https://github.com/NavAneEth777/Code-Pen">
                                             Github
+                                        </a></p>
+                                        <p><a target="_blank" rel="noreferrer noopener" href="/">
+                                            Demo Link
                                         </a></p>
                             </ul>
                     </div> 

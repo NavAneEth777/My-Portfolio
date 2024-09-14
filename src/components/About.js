@@ -17,31 +17,29 @@ function About() {
                     <p>Here is a list of public projects I am currently working on:</p>
                     <div class="box">
                         <h4 class="title is-4">Machine Learning Projects Using Streamlit</h4>
-                        <p>This was the first application I built. Originally, I <a target="_blank" rel="noreferrer noopener" href="/" >built it in
+                        <p>This was the first application I built. Originally, I <a target="_blank" rel="noreferrer noopener" href="https://streamlit.io/" >built it in
                                 Streamlit</a>.</p>
                         <p> Currently, I am using python libraries like sklearn, pandas, numpy, matplotlib, seaborn, and more to build this project.</p>
+                        <p>The WIP version can be found <a rel="noreferrer noopener" href="github.com/NavAneEth777">here</a>.</p>
+                    </div>
+                    <div class="box">
+                        <h4 class="title is-4">College Management System (CMS)</h4>
+                        <p>Developing a College Clubs Management System using the MERN stack and React to streamline club activities, communication, and member management.</p>
+                        <p> Currently, I am using Javascript, MERN stack, and React to build this project.</p>
                         <p>The WIP version can be found <a rel="noreferrer noopener" href="/">here</a>.</p>
                     </div>
                     <div class="box">
-                        <h4 class="title is-4">Machine Learning Projects Using Streamlit</h4>
-                        <p>This was the first application I built. Originally, I <a target="_blank" rel="noreferrer noopener" href="/" >built it in
-                                Streamlit</a>.</p>
-                        <p> Currently, I am using python libraries like sklearn, pandas, numpy, matplotlib, seaborn, and more to build this project.</p>
+                        <h4 class="title is-4">Learning DSA Through C.</h4>
+                        <p>Learning Data Structures and Algorithms (DSA) using C to enhance problem-solving skills and optimize code efficiency for complex tasks.</p>
+                        <p>Solving LeetCode problems and <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/">Striver's DSA sheet</a> to strengthen algorithmic skills and improve coding efficiency for competitive programming.</p>
                         <p>The WIP version can be found <a rel="noreferrer noopener" href="/">here</a>.</p>
                     </div>
-                    <div class="box">
-                        <h4 class="title is-4">Machine Learning Projects Using Streamlit</h4>
-                        <p>This was the first application I built. Originally, I <a target="_blank" rel="noreferrer noopener" href="/" >built it in
-                                Streamlit</a>.</p>
-                        <p> Currently, I am using python libraries like sklearn, pandas, numpy, matplotlib, seaborn, and more to build this project.</p>
-                        <p>The WIP version can be found <a rel="noreferrer noopener" href="/">here</a>.</p>
-                    </div>
-                    <div class="box">
+                    {/* <div class="box">
                         <h4 class="title is-4">Data Science Projects</h4>
                         <p>buiding a data science project using tools like tableau, powerbi, and more.</p>
                         <p> gathering data from different sources and using it to build a model.</p>
                         <p>The WIP version can be found <a rel="noreferrer noopener" href="/">here</a>.</p>
-                    </div>
+                    </div> */}
                 </div>
                 <div class="columns">
                     <div class="column">
