@@ -29,7 +29,7 @@ To run any of the projects locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd portfolio
+    cd My-Portfolio
     ```
 
 3. Install the dependencies:
